@@ -1,0 +1,1 @@
+This Python script generates extremely secure, randomized passwords using uppercase, lowercase, digits, and special characters. It's built using Python’s secrets module for cryptographic security making the passwords safe for personal and professional use.
